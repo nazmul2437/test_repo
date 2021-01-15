@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite One" duration-ms="13951" started-at="2021-01-14T21:55:21 EST" finished-at="2021-01-14T21:55:35 EST">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="13951" started-at="2021-01-14T21:55:21 EST" finished-at="2021-01-14T21:55:35 EST">
+      <class name="com.bit.test.baseTest">
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:com.bit.test.baseTest@d44fc21]" name="testTwo" duration-ms="13884" started-at="2021-01-14T21:55:21 EST" finished-at="2021-01-14T21:55:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:com.bit.test.baseTest@d44fc21]" name="testOne" duration-ms="9095" started-at="2021-01-14T21:55:21 EST" finished-at="2021-01-14T21:55:30 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+      </class> <!-- com.bit.test.baseTest -->
+    </test> <!-- test -->
+  </suite> <!-- Suite One -->
+</testng-results>
